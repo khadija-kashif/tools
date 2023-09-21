@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="normalize.min.css">
     <style type="text/css" media="screen">
         .srx-title {
-            font-size: 33px !important;
+            font-size: 30px !important;
         }
         .wt-sect {
             margin: 0 auto;
